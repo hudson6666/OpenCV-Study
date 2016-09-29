@@ -16,3 +16,6 @@ INCLUDEPATH += /usr/local/include \
 LIBS += -L/usr/local/lib/ -lopencv_highgui -lopencv_core -lopencv_imgcodecs
 
 SOURCES += 2-1.cpp
+
+DISTFILES += \
+    README.md
